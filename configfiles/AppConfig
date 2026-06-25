@@ -1,0 +1,14 @@
+cout_verbosity 2
+logging_verbosity 1
+use_static_data 1
+timespan_ms 100
+n_boards 1
+hitrate_hz 10000
+max_resends 5
+max_send_errors 72000
+send_period_ms 100
+resend_period_ms 10000
+monitoring_period_s 1
+data_port 8888
+#random_seed 1234
+#t0 0
